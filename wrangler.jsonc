@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-14",
+  "routes": [
+    {
+      "pattern": "hello.wylynko.dev",
+      "custom_domain": true
+    }
+  ]
+}
